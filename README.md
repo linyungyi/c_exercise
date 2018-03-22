@@ -1,2 +1,2 @@
 # c_exercise
-samples
+samples, quick note
